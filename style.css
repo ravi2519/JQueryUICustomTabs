@@ -1,0 +1,23 @@
+div.custom-tabs div.ui-widget.ui-widget-content {
+	border: none;
+}
+
+div.custom-tabs .ui-widget-header{
+  border: none;
+  background: #ffffff;
+}
+
+div.custom-tabs .ui-tabs .ui-tabs-nav li{
+  border-radius: 3px;
+  border-bottom-width: 1px; 
+}
+
+div.custom-tabs .ui-tabs .ui-tabs-panel {
+  border: 1px solid #dddddd;
+  margin-top: 10px;
+}
+
+div.custom-tabs .ui-state-active {
+  background: #368E5C;
+  border: 1px solid #368E5C;
+}
